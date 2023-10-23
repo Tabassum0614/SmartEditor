@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SmartEditor/static/css/main.31d6cfe0.css",
+    "main.js": "/SmartEditor/static/js/main.93976f12.js",
+    "static/js/787.196bc331.chunk.js": "/SmartEditor/static/js/787.196bc331.chunk.js",
+    "index.html": "/SmartEditor/index.html",
+    "main.93976f12.js.map": "/SmartEditor/static/js/main.93976f12.js.map",
+    "787.196bc331.chunk.js.map": "/SmartEditor/static/js/787.196bc331.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.93976f12.js"
+  ]
+}
